@@ -49,7 +49,7 @@ const experiences = [
   },
   {
     title: "Chain of legends",
-    company_name: "Self Employed",
+    company_name: "Remote",
     date: "2024 - 2025",
     details: [
       "I am building an online game site on the Crosschain platform with my teammate.",
