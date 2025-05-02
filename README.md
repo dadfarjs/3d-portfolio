@@ -20,5 +20,4 @@ I built myself a 3D developer portfolio website to replace my minimal portfolio 
 - GitHub - Version control & CI/CD
 
 ## Extra Resources
-
 - [Position Animation by Teshank](https://github.com/teshank2137/portfolio)
